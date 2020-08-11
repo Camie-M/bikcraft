@@ -10,7 +10,7 @@ Esse é um projeto de Frontend Web feito utilizando HTML, CSS, JavaScript e PHP;
 
 Esse projeto foi feito durante o curso de WebDesign da Origamid. Foi montado para treinar vários conceitos básicos de codificação e UX/UI Design. Foi um dos primeiros projetos que fiz que incluía PHP. O Bikcraft consiste em um website corporativo de uma marca de bicicletas customizadas.
 
-### Contato (opcional)
+### Contato
 
 Camila Miranda de Moura
 camila.miranda.moura@gmail.com
